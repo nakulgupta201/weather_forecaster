@@ -29,3 +29,13 @@ Users can search the weather of any city and also save their favourite cities.
 ## Author
 
 Nakul Gupta
+
+## API Key
+
+This project uses the OpenWeather API.
+
+To run the project, add your OpenWeather API key in the `script.js` file.
+
+Example:
+
+const apiKey = "YOUR_API_KEY";
