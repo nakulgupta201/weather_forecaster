@@ -1,4 +1,4 @@
-const apiKey = "3f0605d6f7e520e62d71c25bdb749cac";
+const apiKey = "YOUR_API_KEY";
 
 function searchCity(){
 
@@ -109,5 +109,6 @@ fav.splice(index,1);
 localStorage.setItem("favCities", JSON.stringify(fav));
 
 showFavCities();
+
 
 }
